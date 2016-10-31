@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Grabble</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="gps_network_not_enabled">Location services need to be turned on in order to use Grabble.</string>
+    <string name="open_location_settings">Open location settings</string>
+    <string name="Cancel">Cancel</string>
+    <string name="monday_map">http://www.inf.ed.ac.uk/teaching/courses/selp/coursework/monday.kml</string>
+    <string name="tuesday_map">http://www.inf.ed.ac.uk/teaching/courses/selp/coursework/tuesday.kml</string>
+    <string name="sunday_map">http://www.inf.ed.ac.uk/teaching/courses/selp/coursework/sunday.kml</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
